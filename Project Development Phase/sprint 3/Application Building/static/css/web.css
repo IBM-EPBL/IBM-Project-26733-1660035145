@@ -1,0 +1,10 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-clip: border-box;
+}
+#head {
+    color: aliceblue;
+    text-align: center;
+}
