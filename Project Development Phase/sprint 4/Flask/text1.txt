@@ -1,0 +1,3 @@
+buildpacks:
+ - python_buildpack
+  command: python app.py

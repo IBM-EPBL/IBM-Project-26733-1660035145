@@ -1,0 +1,6 @@
+applications :
+
+- name: CrudeOilPricePrediction
+random-route: true
+memory: 2G
+disk_quote: 1.5G
